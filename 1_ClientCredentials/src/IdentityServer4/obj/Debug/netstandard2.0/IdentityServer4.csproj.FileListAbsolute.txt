@@ -1,0 +1,12 @@
+D:\GitHub\IdentityServer4Test\1_ClientCredentials\src\IdentityServer4\bin\Debug\netstandard2.0\IdentityServer4.deps.json
+D:\GitHub\IdentityServer4Test\1_ClientCredentials\src\IdentityServer4\bin\Debug\netstandard2.0\IdentityServer4.dll
+D:\GitHub\IdentityServer4Test\1_ClientCredentials\src\IdentityServer4\bin\Debug\netstandard2.0\IdentityServer4.pdb
+D:\GitHub\IdentityServer4Test\1_ClientCredentials\src\IdentityServer4\bin\Debug\netstandard2.0\IdentityServer4.xml
+D:\GitHub\IdentityServer4Test\1_ClientCredentials\src\IdentityServer4\obj\Debug\netstandard2.0\IdentityServer4.csprojAssemblyReference.cache
+D:\GitHub\IdentityServer4Test\1_ClientCredentials\src\IdentityServer4\obj\Debug\netstandard2.0\IdentityServer4.csproj.CoreCompileInputs.cache
+D:\GitHub\IdentityServer4Test\1_ClientCredentials\src\IdentityServer4\obj\Debug\netstandard2.0\IdentityServer4.sourcelink.json
+D:\GitHub\IdentityServer4Test\1_ClientCredentials\src\IdentityServer4\obj\Debug\netstandard2.0\IdentityServer4.AssemblyInfoInputs.cache
+D:\GitHub\IdentityServer4Test\1_ClientCredentials\src\IdentityServer4\obj\Debug\netstandard2.0\IdentityServer4.AssemblyInfo.cs
+D:\GitHub\IdentityServer4Test\1_ClientCredentials\src\IdentityServer4\obj\Debug\netstandard2.0\IdentityServer4.dll
+D:\GitHub\IdentityServer4Test\1_ClientCredentials\src\IdentityServer4\obj\Debug\netstandard2.0\IdentityServer4.xml
+D:\GitHub\IdentityServer4Test\1_ClientCredentials\src\IdentityServer4\obj\Debug\netstandard2.0\IdentityServer4.pdb
