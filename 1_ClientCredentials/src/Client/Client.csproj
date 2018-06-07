@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="IdentityModel" Version="3.0.0" />
+    <ProjectReference Include="..\IdentityServer4\IdentityServer4.csproj" />
   </ItemGroup>
 
 </Project>
