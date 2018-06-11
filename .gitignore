@@ -7,3 +7,5 @@
 1_ClientCredentials/src/QuickstartIdentityServer/obj/
 1_ClientCredentials/src/IdentityServer4/bin/
 1_ClientCredentials/src/IdentityServer4/obj/
+1_ClientCredentials/src/IdentityServer4.AccessTokenValidation/bin/
+1_ClientCredentials/src/IdentityServer4.AccessTokenValidation/obj/
